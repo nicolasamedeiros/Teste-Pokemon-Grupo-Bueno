@@ -16,5 +16,5 @@ Após a coleta e o tratamento dos dados, foi desenvolvida uma dashboard interati
 ## Tecnologias Utilizadas
 
 - Python
-- strealit
+- streamlit
 - power bi
